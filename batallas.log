@@ -1,0 +1,192 @@
+ago 10, 2023 9:54:50 P. M. Main main
+INFO: Partida iniciada con personajes aleatorios.
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: ===========================================
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: <-------- Iniciando batalla N°1 -------->
+ago 10, 2023 9:54:50 P. M. Main presentacionMazoJugador
+INFO: =========================================
+ago 10, 2023 9:54:50 P. M. Main presentacionMazoJugador
+INFO: Las cartas del jugador 1
+ago 10, 2023 9:54:50 P. M. Main presentacionMazoJugador
+INFO: =========================================
+ago 10, 2023 9:54:50 P. M. Main presentacionMazoJugador
+INFO: ---------------- CARTA 1 ----------------
+ago 10, 2023 9:54:50 P. M. Main presentacionMazoJugador
+INFO: EL PODEROSO GALADRIEL AKA ECHO ES UN MÁGICO ELFO Y TIENE 100.0 PUNTOS DE VIDA. POSEE UNA EDAD DE 270 AÑOS, UNA VELOCIDAD DE 1, UNA DESTREZA DE 5, UNA FUERZA DE 2, UN NIVEL DE 8 Y UNA ARMADURA DE 2.
+ago 10, 2023 9:54:50 P. M. Main presentacionMazoJugador
+INFO: -------------------------------------------
+ago 10, 2023 9:54:50 P. M. Main presentacionMazoJugador
+INFO: ---------------- CARTA 2 ----------------
+ago 10, 2023 9:54:50 P. M. Main presentacionMazoJugador
+INFO: EL INCREÍBLE THRALL AKA JOKER ES UN TEMIBLE ORCO Y TIENE 100.0 PUNTOS DE VIDA. POSEE UNA EDAD DE 50 AÑOS, UNA VELOCIDAD DE 2, UNA DESTREZA DE 1, UNA FUERZA DE 6, UN NIVEL DE 8 Y UNA ARMADURA DE 2.
+ago 10, 2023 9:54:50 P. M. Main presentacionMazoJugador
+INFO: -------------------------------------------
+ago 10, 2023 9:54:50 P. M. Main presentacionMazoJugador
+INFO: ---------------- CARTA 3 ----------------
+ago 10, 2023 9:54:50 P. M. Main presentacionMazoJugador
+INFO: EL SUPREMO MERLIN AKA GHOST ES UN VALIENTE HUMANO Y TIENE 100.0 PUNTOS DE VIDA. POSEE UNA EDAD DE 224 AÑOS, UNA VELOCIDAD DE 10, UNA DESTREZA DE 1, UNA FUERZA DE 9, UN NIVEL DE 5 Y UNA ARMADURA DE 7.
+ago 10, 2023 9:54:50 P. M. Main presentacionMazoJugador
+INFO: -------------------------------------------
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Presentación del mazo del Jugador 1 realizada.
+ago 10, 2023 9:54:50 P. M. Main presentacionMazoJugador
+INFO: =========================================
+ago 10, 2023 9:54:50 P. M. Main presentacionMazoJugador
+INFO: Las cartas del jugador 2
+ago 10, 2023 9:54:50 P. M. Main presentacionMazoJugador
+INFO: =========================================
+ago 10, 2023 9:54:50 P. M. Main presentacionMazoJugador
+INFO: ---------------- CARTA 1 ----------------
+ago 10, 2023 9:54:50 P. M. Main presentacionMazoJugador
+INFO: EL FANTÁSTICO THRALL AKA DUKE ES UN TEMIBLE ORCO Y TIENE 100.0 PUNTOS DE VIDA. POSEE UNA EDAD DE 273 AÑOS, UNA VELOCIDAD DE 4, UNA DESTREZA DE 5, UNA FUERZA DE 1, UN NIVEL DE 7 Y UNA ARMADURA DE 1.
+ago 10, 2023 9:54:50 P. M. Main presentacionMazoJugador
+INFO: -------------------------------------------
+ago 10, 2023 9:54:50 P. M. Main presentacionMazoJugador
+INFO: ---------------- CARTA 2 ----------------
+ago 10, 2023 9:54:50 P. M. Main presentacionMazoJugador
+INFO: EL MÍSTICO DUROTAN AKA GHOST ES UN TEMIBLE ORCO Y TIENE 100.0 PUNTOS DE VIDA. POSEE UNA EDAD DE 51 AÑOS, UNA VELOCIDAD DE 9, UNA DESTREZA DE 5, UNA FUERZA DE 10, UN NIVEL DE 4 Y UNA ARMADURA DE 5.
+ago 10, 2023 9:54:50 P. M. Main presentacionMazoJugador
+INFO: -------------------------------------------
+ago 10, 2023 9:54:50 P. M. Main presentacionMazoJugador
+INFO: ---------------- CARTA 3 ----------------
+ago 10, 2023 9:54:50 P. M. Main presentacionMazoJugador
+INFO: EL MAGNÍFICO DUROTAN AKA ECHO ES UN TEMIBLE ORCO Y TIENE 100.0 PUNTOS DE VIDA. POSEE UNA EDAD DE 5 AÑOS, UNA VELOCIDAD DE 7, UNA DESTREZA DE 2, UNA FUERZA DE 2, UN NIVEL DE 3 Y UNA ARMADURA DE 8.
+ago 10, 2023 9:54:50 P. M. Main presentacionMazoJugador
+INFO: -------------------------------------------
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Presentación del mazo del Jugador 2 realizada.
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Ronda 1
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Atacante: Durotan AKA Echo (Jugador 2) - 100.0 HP
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Defensor: Merlin AKA Ghost (Jugador 1) - 100.0 HP
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Durotan AKA Echo: 100.0 HP, realizo 17.8211 daño
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Merlin AKA Ghost: 82.1789 HP
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Ronda 2
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Atacante: Merlin AKA Ghost (Jugador 1) - 82.1789 HP
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Defensor: Durotan AKA Echo (Jugador 2) - 100.0 HP
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Merlin AKA Ghost: 82.1789 HP, realizo 1228.276 daño
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Durotan AKA Echo: -1128.276 HP
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Durotan AKA Echo ha sido eliminado. (Jugador 2)
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Merlin AKA Ghost ha ganado, recibe +46.179319226526395 HP. (Jugador 1)
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: --------------- Siguiente ronda ---------------
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Ronda 1
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Atacante: Durotan AKA Ghost (Jugador 2) - 100.0 HP
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Defensor: Merlin AKA Ghost (Jugador 1) - 128.3582192265264 HP
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Durotan AKA Ghost: 100.0 HP, realizo 415.7615 daño
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Merlin AKA Ghost: -287.4032807734736 HP
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Merlin AKA Ghost ha sido eliminado. (Jugador 1)
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Durotan AKA Ghost ha ganado, recibe +57.43528275344787 HP. (Jugador 2)
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: --------------- Siguiente ronda ---------------
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Ronda 1
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Atacante: Galadriel AKA Echo (Jugador 1) - 100.0 HP
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Defensor: Durotan AKA Ghost (Jugador 2) - 157.43528275344786 HP
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Galadriel AKA Echo: 100.0 HP, realizo 27.711904761904762 daño
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Durotan AKA Ghost: 129.7233779915431 HP
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Ronda 2
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Atacante: Durotan AKA Ghost (Jugador 2) - 129.7233779915431 HP
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Defensor: Galadriel AKA Echo (Jugador 1) - 100.0 HP
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Durotan AKA Ghost: 129.7233779915431 HP, realizo 243.31890000000004 daño
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Galadriel AKA Echo: -143.31890000000004 HP
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Galadriel AKA Echo ha sido eliminado. (Jugador 1)
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Durotan AKA Ghost ha ganado, recibe +93.27898858306354 HP. (Jugador 2)
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: --------------- Siguiente ronda ---------------
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Ronda 1
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Atacante: Thrall AKA Joker (Jugador 1) - 100.0 HP
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Defensor: Durotan AKA Ghost (Jugador 2) - 223.00236657460664 HP
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Thrall AKA Joker: 100.0 HP, realizo 91.05525000000002 daño
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Durotan AKA Ghost: 131.94711657460664 HP
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Ronda 2
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Atacante: Durotan AKA Ghost (Jugador 2) - 131.94711657460664 HP
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Defensor: Thrall AKA Joker (Jugador 1) - 100.0 HP
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Durotan AKA Ghost: 131.94711657460664 HP, realizo 136.39780000000002 daño
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Thrall AKA Joker: -36.39780000000002 HP
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Thrall AKA Joker ha sido eliminado. (Jugador 1)
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Durotan AKA Ghost ha ganado, recibe +79.8889068766766 HP. (Jugador 2)
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: ===========================================
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: 
+Cantidad de personajes restantes en Jugador 1: 0
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: Cantidad de personajes restantes en Jugador 2: 2
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: 
+===========================================
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: ¡Jugador 2 gana!
+ago 10, 2023 9:54:50 P. M. Main batalla
+INFO: ===========================================
